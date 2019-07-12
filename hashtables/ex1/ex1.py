@@ -5,18 +5,6 @@ from hashtables import (HashTable,
                         hash_table_retrieve,
                         hash_table_resize)
 
-
-def get_indices_of_item_weights(weights, length, limit):
-    ht = HashTable(16)
-
-    """
-    YOUR CODE HERE
-    """
-    
-
-    return None
-
-
 def print_answer(answer):
     if answer is None:
         print(str(answer[0] + " " + answer[1]))
