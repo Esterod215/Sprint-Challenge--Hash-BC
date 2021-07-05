@@ -1,0 +1,13 @@
+1. A block chain are a list of blocks (which are collections of data)
+-no cenral authority and each peer holds the collection of the chain
+-data is almost impossible to be tampered with
+How it works:
+A transaction is made by a user with a unique key
+the transaction is then validated using proofs then the block is added to the chain 
+once validated
+the block is now part of the ledger and is distributed to the network 
+2. An array is a container that can hold a fixed amount of data
+
+3. A has table is a data structurethat stores key/value pairs.It uses a hashing algorithm to hash
+   to compute an index into an array in which an element can be inserted or searched
+   A good hashing function wil allow for O(1) time searches and insertions
